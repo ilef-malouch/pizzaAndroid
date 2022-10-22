@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pizza</string>
+    <string-array name="pizzaTypes">
+        <item>Moyenne</item>
+        <item>Mini</item>
+        <item>Maxi</item>
+    </string-array>
+</resources>
